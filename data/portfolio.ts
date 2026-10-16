@@ -45,7 +45,7 @@ export const profile = {
   email: "kan.umertayev@protonmail.com",
   phoneDisplay: "+7 701 920 0189",
   phone: "+77019200189",
-  linkedin: "https://www.linkedin.com/in/kanat/",
+  linkedin: "https://www.linkedin.com/in/kanatt/",
   availability:
     "Open to senior project engineering, employer’s representative, and civil engineering opportunities.",
   cvPath: "/Kanat-Umertayev-CV.pdf",
